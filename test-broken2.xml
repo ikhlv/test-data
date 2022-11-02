@@ -1,0 +1,21 @@
+<yml_catalog date="2022-11-01 11:30:09">
+    <offers>
+        <offer id="1001973898" avasilable="false">
+            <price>3100.00</price>
+        </offer>
+        <offer id="17511" available="true">
+            <price>3000.00</price>
+            <price_old>3400.00</price_old>
+        </offer>
+        <offer id="asdsd" available="true">
+            <price>3200.00</price>
+        </offer>
+        <offer id="153567" available="true">
+            <pricie>3300.00</pricie>
+            <priced>
+        </offer>
+        <offer id="1001740789" available="false">
+            <price>3500.00</price>
+        </offer>
+    </offers>
+</yml_catalog>
